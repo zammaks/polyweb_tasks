@@ -562,10 +562,10 @@ body{
   text-decoration: line-through;
   display: inline-block;
 }
+
 .new-price{
   display: inline-block;
   margin-left: 15px;
-  color: rgb(235, 87, 87);
 }
 .card__sale{
   position: absolute;
